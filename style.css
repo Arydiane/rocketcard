@@ -158,3 +158,8 @@ body{
     width: 22.9rem;
     height: 5.9rem;
 }
+
+.btn:hover {
+    box-shadow: 0.5rem 0.5rem 1rem var(--bg);
+    cursor: pointer;
+}
