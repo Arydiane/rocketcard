@@ -76,12 +76,11 @@ body{
     border: 0.1rem solid var(--text);
 }
 
-#name-user{
+#nameUser{
     display: inline;
     font-size: 2rem;
     font-weight: 400;
     padding-left: 1rem;
-    
 }
 
 #img-profile {
@@ -94,6 +93,7 @@ body{
     border-radius: 50%;
     border: 0.8rem solid var(--img-profile);
 }
+
 #info-card{
     position: absolute;
     left: 2rem;
